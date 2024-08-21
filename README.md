@@ -1,6 +1,6 @@
 # Chat Application
 
-Chat Application is a Flutter-based mobile app that uses Firebase for authentication, real-time chat functionalities, and user management. This app features a modern and intuitive design for seamless communication and user interaction.
+The Chat Application is a cross-platform mobile app developed with Flutter and Firebase. It provides a modern, user-friendly interface for seamless communication and interaction. The app supports user authentication, real-time messaging, and multi-chat functionality, making it a versatile tool for personal and professional use.
 
 ## Features
 
